@@ -73,7 +73,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "rishabhmishra143a@gmail.com ",
+  address: "Kanpur , Uttar Pradesh , India ",
+  phoneNo: "9198921795 ",
+  email: "rishabhmishra143a@gmail.com",
 };
